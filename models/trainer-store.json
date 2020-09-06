@@ -1,0 +1,18 @@
+{
+  "trainers": [
+    {
+      "firstName": "emma",
+      "lastName": "kincaid",
+      "email": "emma@kincaid.com",
+      "password": "compscience",
+      "id": "fjstetpyy"
+    },
+    {
+      "firstName": "mary",
+      "lastName": "murphy",
+      "email": "mary@murphy.com",
+      "password": "ictskills",
+      "id": "lgheyopyuyy"
+    }
+  ]
+}
