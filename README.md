@@ -1,4 +1,3 @@
-Welcome to the Playlist 3
+ICT PlayGym
 =========================
 
-Version 3 of the Playlist application
