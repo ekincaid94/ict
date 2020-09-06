@@ -1,0 +1,90 @@
+{
+  "members": [
+    {
+      "firstName": "Tom",
+      "lastName": "Flynn",
+      "email": "tom@flynn.com",
+      "password": "secret",
+      "address": "secret",
+      "gender": "male",
+      "height": "23",
+      "startingWeight": "12",
+      "id": "3af20a60-eae6-11ea-bbc3-45694bb1df5f",
+      "userid": "ea571f50-eae5-11ea-bbc3-45694bb1df5f",
+      "assessments": [
+        {
+          "id": "f6d3fdc0-eae5-11ea-bbc3-45694bb1df5t",
+          "date": "09//06/2020",
+          "weight": "21",
+          "chest": "11",
+          "thigh": "15",
+          "upperArm": "10",
+          "waist": "16",
+          "hips": "12",
+          "Comment": "Very god Work"
+        },
+        {
+          "id": "3eaa7700-eee2-11ea-806b-bd7fd7daafd5",
+          "weight": "22",
+          "chest": "11",
+          "thigh": "18",
+          "upperArm": "12",
+          "waist": "16",
+          "hips": "12",
+          "Comment": "A good start"
+        }
+      ],
+      "assessment": {
+        "id": "121681a0-f056-11ea-8e3e-238ce58a04ca",
+        "weight": "",
+        "chest": "",
+        "thigh": "",
+        "upperArm": "",
+        "waist": "",
+        "hips": ""
+      }
+    },
+    {
+      "firstName": "Homer",
+      "lastName": "Simpson",
+      "email": "homer@simpson.com",
+      "password": "secret",
+      "address": "Springfield",
+      "gender": "Male",
+      "height": "130",
+      "startingWeight": "130",
+      "id": "372f1710-f059-11ea-8e3e-238ce58a04ca",
+      "userid": "372f6530-f059-11ea-8e3e-238ce58a04ca",
+      "assessments": [
+        {
+          "id": "f5687280-f059-11ea-8e3e-238ce58a04ca",
+          "weight": "22",
+          "chest": "44",
+          "thigh": "15",
+          "upperArm": "10",
+          "waist": "11",
+          "hips": "12"
+        },
+        {
+          "id": "503975c0-f059-11ea-8e3e-238ce58a04ca",
+          "weight": "22",
+          "chest": "44",
+          "thigh": "18",
+          "upperArm": "12",
+          "waist": "11",
+          "hips": "12",
+          "Comment": "Excellent progress!"
+        }
+      ],
+      "assessment": {
+        "id": "8e32f370-f05d-11ea-8ad9-6fa9778c3dea",
+        "weight": "21",
+        "chest": "43",
+        "thigh": "15",
+        "upperArm": "11",
+        "waist": "12",
+        "hips": "11"
+      }
+    }
+  ]
+}
